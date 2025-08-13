@@ -42,7 +42,7 @@ My main stack includes **PHP, Laravel, JavaScript, Bootstrap, and MySQL**, but I
 ---
 
 ## 🎵 Now Playing on Spotify
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/Akbarjhon)
 
 ---
 
