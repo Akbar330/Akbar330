@@ -22,6 +22,10 @@ I build modern, user-friendly web applications — from sleek frontends to power
 
 ---
 
+## 🐍 Contribution Snake
+![snake gif](https://github.com/Akbar330/Akbar330/blob/output/github-contribution-grid-snake.gif)
+
+
 ## 📈 GitHub Stats
 ![Akbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akbar330&show_icons=true&theme=radical)
 
