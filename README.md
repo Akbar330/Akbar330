@@ -16,10 +16,8 @@ I build modern, user-friendly web applications — from sleek frontends to power
 ---
 
 ## 📌 Featured Projects
-- 🛍️ **Marketplace Website** – Modern UI with bottom navigation & page animations  
-- 🏫 **School Attendance System** – Login, dashboard, and CRUD features  
-- 🩺 **Health Service Web App** – BPJS registration, consultation booking, and more  
-
+- 🧠 **BNN Quiz Web App** – Interactive quiz system with role-based access & Laravel backend  
+- 🏫 **School Attendance System** – Login, dashboard, and CRUD features 
 ---
 
 
