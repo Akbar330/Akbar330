@@ -17,19 +17,37 @@ I build modern, user-friendly web applications — from sleek frontends to power
 
 ## 📌 Featured Projects
 - 🧠 **BNN Quiz Web App** – Interactive quiz system with role-based access & Laravel backend  
-- 🏫 **School Attendance System** – Login, dashboard, and CRUD features 
----
+- 🏫 **School Attendance System** – Login, dashboard, and CRUD features  
 
+---
 
 ## 📈 GitHub Stats
 ![Akbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akbar330&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akbar330&layout=compact&theme=radical)
 
 ---
 
-## 🌐 Connect with Me
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Akbar330&theme=radical&no-frame=true&margin-w=5)
 
+---
+
+## 📊 GitHub Activity Graph
+![Akbar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akbar330&theme=react-dark)
+
+---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/Akbar330/Akbar330/blob/output/github-contribution-grid-snake.gif)
+
+---
+
+## 👀 Profile Views
+![Profile views](https://komarev.com/ghpvc/?username=Akbar330&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-akbar-alhariri-693070323)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akbr_muhammd)
 
