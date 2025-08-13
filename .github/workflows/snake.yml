@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *" # Update setiap hari jam 00:00 UTC
   workflow_dispatch:
 
+permissions:
+  contents: write  # IZIN untuk push/commit
+
 jobs:
   build:
     runs-on: ubuntu-latest
