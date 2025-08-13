@@ -38,7 +38,8 @@ I build modern, user-friendly web applications — from sleek frontends to power
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/Akbar330/Akbar330/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Akbar330/Akbar330/blob/output/dist/github-contribution-grid-snake.gif)
+
 
 ---
 
