@@ -63,6 +63,7 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150" />
   <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="150" />
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="150" />
+  <img src="https://media4.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" alt="Laravel Logo GIF" width="180px" />
 </p>
 
 ---
