@@ -1,17 +1,21 @@
 # Hi there, I'm Akbar Jhon 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=FF5733&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Akbar+Jhon+👋;Full-Stack+Developer;Laravel+Enthusiast;Creative+Coder;Always+Learning+New+Things)](https://git.io/typing-svg)
+
 🚀 **Full-Stack Developer (without real experience) | Laravel Enthusiast | Creative Coder**
 
 Welcome to my GitHub profile!  
-I build modern, user-friendly web applications — from sleek frontends to powerful backends. My main stack includes **PHP, Laravel, JavaScript, Bootstrap, and MySQL**, but I also love exploring APIs, AI integrations, and performance optimization.
+I build modern, user-friendly web applications — from sleek frontends to powerful backends.  
+My main stack includes **PHP, Laravel, JavaScript, Bootstrap, and MySQL**, but I also love exploring APIs, AI integrations, and performance optimization.
 
 ---
 
 ## 💻 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap
-- **Backend:** PHP, Laravel, MySQL
-- **Other Tools:** Git, Composer, API integration
-- **Currently Learning:** Laravel Filament, AI integration with Groq API
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=000000)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -37,6 +41,11 @@ I build modern, user-friendly web applications — from sleek frontends to power
 
 ---
 
+## 🎵 Now Playing on Spotify
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+
+---
+
 ## 🐍 Contribution Snake
 ![snake gif](https://github.com/Akbar330/Akbar330/blob/output/dist/github-contribution-grid-snake.gif)
 
@@ -55,3 +64,4 @@ I build modern, user-friendly web applications — from sleek frontends to power
 
 💡 _"Code is like humor. When you have to explain it, it’s bad."_  
 — Keep building, keep learning.
+
