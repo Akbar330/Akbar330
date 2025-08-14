@@ -60,7 +60,7 @@
 
 ## 🎵 Favorit Music
 
-[![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?logo=spotify&logoColor=white)](
+[![Avenged Sevenfold - Bat Country](https://img.shields.io/badge/Bat%20Country-A7X-1DB954?logo=spotify&logoColor=white)](
 https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7)
 
 
