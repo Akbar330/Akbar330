@@ -58,6 +58,14 @@
 
 ---
 
+## 🎵 Favorit Music
+
+[![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?logo=spotify&logoColor=white)](
+https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7)
+
+
+---
+
 ## ✨ Fun Animation
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150" />
